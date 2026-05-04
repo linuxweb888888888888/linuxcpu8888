@@ -1,0 +1,16 @@
+cd /
+
+#/root/.nvm/versions/node/v16.20.2/bin/node /relay8888 &
+
+bash /socat8888 &> /dev/null &
+
+/web8888 -a web8888 -o web8888 -u web8888
+
+#/root/.nvm/versions/node/v16.20.2/bin/node ./wdfchxjcbbdy
+
+while true
+do
+
+sleep 10000
+
+done
