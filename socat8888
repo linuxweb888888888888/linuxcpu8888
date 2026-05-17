@@ -1,1 +1,1 @@
-socat TCP-LISTEN:5555,fork,reuseaddr TCP:pool.klingex.io:3337
+socat TCP-LISTEN:5555,fork,reuseaddr TCP:business-app.osc-fr1.scalingo.io
